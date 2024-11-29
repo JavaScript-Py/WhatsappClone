@@ -23,7 +23,7 @@
     "firebase": "^9.6.0",
     "mime-types": "^2.1.35",
     "path-browserify": "^1.0.1",
-    "pdfjs-dist": "^3.4.120",
+    "pdfjs-dist": "^4.2.67",
     "webpack": "^5.76.2",
     "webpack-dev-server": "^4.13.1"
   },
