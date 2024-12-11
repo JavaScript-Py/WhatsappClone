@@ -20,7 +20,7 @@
   "homepage": "https://github.com/hcodebr/curso-javascript-projeto-whatsapp-clone#readme",
   "dependencies": {
     "core-js": "^3.6.5",
-    "firebase": "^10.9.0",
+    "firebase": "^10.14.1",
     "mime-types": "^2.1.35",
     "path-browserify": "^1.0.1",
     "pdfjs-dist": "^4.2.67",
